@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3747
+
+This is a syntax file for dosini files (*.ini). This syntax file is based on the dosini syntax file written by Sean M. McKee and Nima Talebi, which is shipped with the official vim distribution before vim version 7.3.312.
+
+This script has been included in the official vim distribution since vim version 7.3.313.
+
+
+Repository: https://bitbucket.org/xuhdev/syntax-dosini.vim
